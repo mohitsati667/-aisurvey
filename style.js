@@ -1,0 +1,1 @@
+alert("Hey every one welcome to the website , i hope that you all will love this website and the survey , please participate in this survey honestly")

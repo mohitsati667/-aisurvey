@@ -1,0 +1,712 @@
+body{
+    
+    background-image: url("PH1.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed ;
+    background-size: 100% 100% ;
+    
+    
+}
+
+.xox1{
+    
+    border: 0px solid black;
+    height:700px;
+    width:1000px;
+    background:rgba(255,255,255,.4) ;
+    font-size : 50px;
+    border-radius: 90px;
+    color: darkblue;
+    margin-left:30%;
+    margin-top: 150px;
+    
+    
+}
+
+.xox2{
+    
+    
+    font-size:50px;
+    margin-top: -500px ;
+    
+}
+
+.xox3{
+  color: #B041FF;
+    margin-left:110px;
+    
+}
+
+.xox4{
+    
+    
+    border: 0px solid black;
+    height:2800px;
+    width:2000px;
+    background-color:rgba(225,225,225,.5);
+    font-size : 50px;
+    
+    color: #B041FF;
+    margin-left:10%;
+    margin-top: 150px;
+    
+    
+    
+    
+    
+}
+
+
+.pop{
+    
+    height: 50px;
+    width: 40%;
+    font-size: 30px ;
+    margin-left: 40px ;
+    
+}
+
+
+.pop1{
+    
+    height: 50px;
+    width: 40%;
+    font-size: 30px ;
+    margin-left: 40px ;
+    
+}
+
+
+.ghi{
+    
+    height: 100px;
+    width: 300px ;
+    font-size: 60px;
+    margin-left: 40px;
+}
+
+
+
+.cvio{
+    
+    height: 300px;
+    width: 360px;
+    margin-left: 40px;
+    font-size: 30px;
+    
+    
+}
+
+
+.xox100{
+    
+    background-color:black;
+    height:750px;
+    width:100%;
+    margin-top:200px;
+    
+    
+    
+}
+
+
+.xox101{
+    
+    color:white;
+    margin-left:100px;
+    padding: 50px;
+    font-size: 50px;
+    
+}
+
+
+.xox102{
+    
+    color:white;
+    font-size:45px;
+    margin-left: 40px;
+    
+    
+}
+
+.topio{
+    
+    
+    color: greenyellow;
+    font-size: 40px;
+    padding: 20px;
+    margin-left: 30px;
+    
+}
+
+.xox130{
+    
+    color: white;
+    font-size:50px;
+    margin-left:40%;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:2258px){
+    
+    .xox4{
+    
+    width: 1900px;
+    
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+@media(max-width:2189px){
+    
+    .xox4{
+        
+        width: 1790px;
+        
+        
+        
+    }
+    
+    
+    
+    
+    
+    
+}
+
+
+
+@media(max-width:2064px){
+    
+    .xox4{
+        
+        width: 1590px;
+        
+        
+        
+    }
+    
+    
+    
+    
+    
+    
+}
+
+
+@media(max-width:1848px){
+    
+    .xox4{
+        
+        width: 1300px;
+        
+        
+        
+    }
+    
+    
+    
+    
+    
+    
+}
+
+@media(max-width:1794px){
+    
+    
+    .xox1{
+    
+    font-size: 50px;
+    margin-left:200px;
+    
+    
+    }
+    
+    
+    
+    
+    
+    
+}
+
+
+
+@media(max-width:1513px){
+    
+    .xox1{
+        
+        width: 900px;
+        
+        
+        
+    }
+    
+    .xox4{
+        
+        
+        font-size: 45px;
+        width: 1100px;
+        
+    }
+    
+    
+    
+    
+}
+
+
+
+@media(max-width:1263px){
+    
+    .xox1{
+        
+        width: 1000px;
+        font-size: 40px;
+        width: 600px;
+        
+    }
+    
+    
+        .xox3{
+            
+            
+            font-size: 50px;
+            
+            
+        }
+        
+        
+        
+        .xox4{
+            
+            
+            width: 1000px;
+            
+            
+        }
+        
+        
+        
+  
+    
+    
+    
+    
+}
+
+
+
+@media(max-width:1132px){
+    
+    .xox1{
+        
+        
+        width: 550px;
+        
+        
+        
+    }
+    
+    .pop1{
+        
+        
+        font-size: 20px;
+        
+        
+    }
+    
+    
+    .xox4{
+        
+        
+        width: 800px;
+        font-size: 25px;
+          height: 2000px;
+          
+          
+          
+    }
+    
+    .xox130{
+        
+        margin-left: 20%;
+        
+        
+    }
+    
+    
+}
+
+@media(max-width:921px){
+    
+    .xox4{
+        
+        width: 600px;
+        margin-left: 90px;
+        
+        
+    }
+    
+    .xox1{
+        
+        margin-left: 150px;
+        
+        
+        
+        
+    }
+    
+    
+    
+    
+}
+
+
+@media(max-width:763px){
+    
+    .xox1{
+        
+        width: 400px ;
+        height: 500px;
+        
+        font-size: 25px;
+        
+    }
+    
+    .xox102{
+        
+        font-size: 35px;
+        
+        
+    }
+    
+    
+    .xox130{
+        
+        font-size: 40px;
+        margin-left: 10%;
+        margin-top: 150px;
+        
+        
+        
+        
+    }
+    
+    .xox3{
+        
+        font-size: 30px;
+        
+        
+    }
+    
+    .xox1{
+        
+        height: 350px;
+        
+        
+        
+    }
+    
+    
+    
+}
+
+@media(max-width:716px){
+    
+    .xox4{
+        
+        font-size: 20px;
+        width: 500px;
+        height: 1800px;
+        
+    }
+    
+    .xox130{
+        
+        font-size: 30px;
+        
+        
+    }
+    
+    .xox101{
+        
+        font-size: 25px;
+        
+        
+    }
+    
+    
+    .xox102{
+        
+        font-size: 20px;
+        
+        
+        
+        
+    }
+    
+    .xox100{
+        
+        height: 560px;
+        
+        
+    }
+    
+    
+    
+    
+}
+
+
+
+@media(max-width:616px){
+    
+    .xox1{
+        
+        font-size: 18px;
+        width: 350px;
+        height: 260px;
+    }
+    
+    .xox3{
+        
+        font-size: 25px;
+        
+        margin-left: 70px;
+        
+    }
+    
+    
+    .xox4{
+        
+        font-size: 15px;
+        width: 350px;
+        
+        
+    }
+    .cvio{
+        
+        
+        width: 200px;
+        
+        
+    }
+    
+    
+    
+}
+
+
+@media(max-width:531px){
+    
+    .xox1{
+        
+        
+        margin-left: 80px;
+        
+        
+    }
+    
+    .pop1{
+        
+        
+        font-size: 10px;
+        width: 35%;
+        
+    }
+    
+    
+    .xox4{
+        
+        height: 1500px;
+        
+        
+        
+    }
+    
+    
+    
+    
+}
+
+@media(max-width:458px){
+    
+    .xox4{
+        
+        margin-left:20px ;
+        
+        
+    }
+    
+    .xox1{
+        
+        margin-left: 20px;
+        
+    }
+    
+    .xox130{
+        
+        
+        font-size: 20px;
+        
+    }
+    
+    
+    
+    
+}
+
+
+
+
+
+
